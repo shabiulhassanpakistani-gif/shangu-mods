@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Shangu Client | MCPE Hack Client</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="hero">
+    <img src="assets/logo.png" class="logo">
+    <h1>SHANGU CLIENT</h1>
+    <p class="tagline">The Most Powerful MCPE Hack Client</p>
+    <a href="YOUR-DOWNLOAD-LINK-HERE" class="download-btn">Download Now</a>
+</div>
+
+<section class="features">
+    <h2>FEATURES</h2>
+    <ul>
+        <li>Killaura / Aimbot</li>
+        <li>ESP (Player Outline)</li>
+        <li>Speed / Fly / Glide</li>
+        <li>Anti-Knockback</li>
+        <li>Fast Bridge + Scaffold</li>
+        <li>Auto Clicker</li>
+    </ul>
+</section>
+
+<section class="screenshots">
+    <h2>SCREENSHOTS</h2>
+    <p>Upload screenshots in: <b>assets/</b> folder</p>
+</section>
+YOUR-DOWNLOAD-LINK-HERE
+
+<footer>
+    Shangu Client © 2025 | All Rights Reserved.
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
